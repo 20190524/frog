@@ -1,0 +1,10 @@
+#ifndef FROGNOTE_H
+#define FROGNOTE_H
+
+class name
+{
+public:
+    name() {}
+};
+
+#endif // FROGNOTE_H
